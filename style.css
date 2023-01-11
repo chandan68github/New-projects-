@@ -1,0 +1,35 @@
+body{
+    background-color:blanchedalmond;
+    background-image: ;
+}
+
+h1{
+text-align:center;
+text-decoration: underline;
+border-radius: 20px;
+}
+
+.schedule{
+    background-color: aliceblue;
+    padding: auto;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+
+p{
+    color: blue;
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-top:20px;
+    margin-bottom: 20px;
+    display: inline-block;
+    font-size: xx-large;
+    font-style: oblique;
+    text-align: justify;
+}
+
+
